@@ -1,1 +1,1 @@
-# Go hard or Go home ！
+# Go hard or Go home
