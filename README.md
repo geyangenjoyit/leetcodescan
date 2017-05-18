@@ -1,1 +1,1 @@
-# leetcodescan
+# Go hard or Go home ！
